@@ -15,6 +15,7 @@
 	* Dan Venkitachalam - for finding some non-compliant DDS files, and patching some explicit casts
 	* everybody at gamedev.net
 */
+#pragma optimize("", off)
 
 #define SOIL_CHECK_FOR_GL_ERRORS 0
 
